@@ -8,7 +8,7 @@ What was our Objective: How can hotels predict a Tripadvisor review, and what am
 
 
 
-[Grad pic 1](assets/img/Grad_pic_1.png)
+[Grad pic 1](assets/image/Grad_pic_1.png)
 
 
 Alzheimer’s Diagnosis Predictive Modeling
