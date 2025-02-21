@@ -89,4 +89,15 @@ This table displays correlation between the variables and potential relations of
 Worth noting that Mini-Mental State Examination (MMSE), Functional Assessment And Activities of Daily Living  (ADL) had a slightly high negative correlation.
 While Memory Complaints and Behavioral Problems had a slightly higher positive correlation
 
+## Classifcations
+### Logistic Regression 
+Using Backwards Elimination, Stepwise Selection and Forward Selection
+### kNN
+Finding the best k and what variables we used by grouping data points based on similarity
+### Classification and Regression Trees(CART)
+Explains how our outcome variables value can be predicted based on other values
+
+
+
+
 
