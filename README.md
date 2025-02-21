@@ -188,3 +188,7 @@ Pruning: The technique used to remove branches that have little importance, help
 - With no restrictions! 
 
 ![image](https://github.com/user-attachments/assets/22999122-205d-4d6b-a775-8dee2b7b917c)
+![image](https://github.com/user-attachments/assets/26c13dae-2a31-413b-bb0d-087a39558c7c)
+![image](https://github.com/user-attachments/assets/f4a41998-cded-4ca6-b14a-1a14d5ad1a7e)
+
+
