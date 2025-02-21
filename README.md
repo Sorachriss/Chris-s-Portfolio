@@ -2,7 +2,8 @@
 
 ## Project 1
 ## Predictive Hotel Review Analysis Competitetion Overview 
-- Collaborated on developing a predictive model using Excel and Python's scikit-learn to forecast Las Vegas hotel review scores for amenity optimization. Created Tableau visualizations to highlight amenity trends in top- and bottom-rated hotels, reinforcing insights from the model.
+- Collaborated on developing a predictive model using Excel and Python's scikit-learn to forecast Las Vegas hotel review scores for amenity optimization.
+- Created Tableau visualizations to highlight amenity trends in top- and bottom-rated hotels, reinforcing insights from the model.
 - Scraped over 1000 reviews was given through excel and python.
 - Competed in an Alteryx-hosted challenge with over 70 participants.
 - Predict the value of the dependent variable based on the values of the independent variables.
