@@ -47,9 +47,9 @@
 
 
 ## Project 2 
-- ### Alzheimer’s Diagnosis Predictive Modeling Overview 
-Led a team in utilizing Excel for data analysis and predictive modeling, applying Multiple Linear Regression (MLR) and Regression Trees to identify key factors for early Alzheimer’s diagnosis. Developed Regression Trees using XLMiner to visually highlight critical variables for early detection.
-- Identifying which variables are the most significant when diagnosing a patient with alzheimer's
+ ### Alzheimer’s Diagnosis Predictive Modeling Overview 
+-Led a team in utilizing Excel for data analysis and predictive modeling, applying Multiple Linear Regression (MLR) and Regression Trees to identify key factors for early Alzheimer’s diagnosis. Developed Regression Trees using XLMiner to visually highlight critical variables for early detection.
+- Identifying which variables are the most significant when diagnosing a patient with alzheimer's.
 
 DataSet:
 - [Alzheimer’s Disease Data from Kaggle](https://www.kaggle.com/datasets/ninadaithal/imagesoasis)
