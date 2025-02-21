@@ -24,7 +24,8 @@ Based On Linear Regression we did on python we discovery what amenties should ho
 ![image](https://github.com/user-attachments/assets/bd00ec4f-814a-4e24-afcb-46907919cbbf)
 While we were data cleaning we narrow down to Hotel name, # amenities, Average score, Spa, Casino, Free Interent, and top 3 Amenities.
 After Analysis we noticed with the top 5 hotels that were doing well was having around 5 amentites compare to the other amounts of amentites they had.
-![image](https://github.com/user-attachments/assets/29297c93-5330-4677-b857-7cd99f085a67)
+![image](https://github.com/user-attachments/assets/92192a28-eed8-4bd9-906c-c7887fbddb8d)
+
 We also saw that hotels with higher reviews and scores had specfic amenties such as Casino, Free Internet, Spa. Others that had these and extras places were a plus such as Tennis Court and Pool.
 
 ##  Hotels should prioritize these amenities (in order):
@@ -40,7 +41,7 @@ We also saw that hotels with higher reviews and scores had specfic amenties such
 
 ### What was our Objective: How can hotels predict a Tripadvisor review, and what amenities should hotels prioritize in order to ensure the highest review?
 ### Answer: Hotels offering five key amenities—prioritizing free internet, a spa, and a casino—tended to receive higher reviews on TripAdvisor. To predict higher review counts and ratings, these specific amenities were identified as essential, with hotels like Wynn, The Venetian, and Encore scoring the highest.
-![image](https://github.com/user-attachments/assets/73bd5aad-6434-4ce6-9d2d-594e216c7f6b)
+![image](https://github.com/user-attachments/assets/29297c93-5330-4677-b857-7cd99f085a67)
 
 
 
