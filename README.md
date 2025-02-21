@@ -23,14 +23,23 @@
 - While we were data cleaning we narrow down to Hotel name, # amenities, Average score, Spa, Casino, Free Interent, and top 3 Amenities.
 - After Analysis we noticed with the top 5 hotles that were doing well was having around 5 amentites compare to the other amounts of amentites they had.
 ![image](https://github.com/user-attachments/assets/908e4b2e-4633-43f9-9266-8c4fc9d70cad)
-- We also saw that hotels with higher reviews and scores had specfic amenties such as Casino, Free Internet, Spa. Others that had these and extras places were a plus such as Gym and Pool.
+- We also saw that hotels with higher reviews and scores had specfic amenties such as Casino, Free Internet, Spa. Others that had these and extras places were a plus such as Tennis Court and Pool.
 - ![image](https://github.com/user-attachments/assets/dc6703eb-7a73-4d5e-b8b9-547ed7796c40)
+##  Hotels should prioritize these amenities (in order):
+- Free Internet
+- Casino
+- Spa
+- Pool
+- Tennis Court
+- Gym (negative effect)
+
 
 
 
 ### What was our Objective: How can hotels predict a Tripadvisor review, and what amenities should hotels prioritize in order to ensure the highest review?
 ### Answer: Hotels offering five key amenities—prioritizing free internet, a spa, and a casino—tended to receive higher reviews on TripAdvisor. To predict higher review counts and ratings, these specific amenities were identified as essential, with hotels like Wynn, The Venetian, and Encore scoring the highest.
 ![image](https://github.com/user-attachments/assets/73bd5aad-6434-4ce6-9d2d-594e216c7f6b)
+
 
 
 
