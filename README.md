@@ -218,4 +218,15 @@ Pruning: The technique used to remove branches that have little importance, help
 - High error rates
 - Middling sensitivity and specificity
 
+## Compared to Previous Studies
+### Consistencies 
+
+- Age variable consistent
+- Genetic factors
+- Cognitive Assessments(MMSE)
+
+###  Discrepancies 
+- Biomarkers/Neuroimaging
+- Lifestyle Factors
+- Population Variability
 
