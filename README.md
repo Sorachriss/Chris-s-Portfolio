@@ -24,7 +24,7 @@
 - After Analysis we noticed with the top 5 hotles that were doing well was having around 5 amentites compare to the other amounts of amentites they had.
 ![image](https://github.com/user-attachments/assets/908e4b2e-4633-43f9-9266-8c4fc9d70cad)
 - We also saw that hotels with higher reviews and scores had specfic amenties such as Casino, Free Internet, Spa. Others that had these and extras places were a plus such as Tennis Court and Pool.
-- ![image](https://github.com/user-attachments/assets/dc6703eb-7a73-4d5e-b8b9-547ed7796c40)
+ ![image](https://github.com/user-attachments/assets/dc6703eb-7a73-4d5e-b8b9-547ed7796c40)
 ##  Hotels should prioritize these amenities (in order):
 - Free Internet
 - Casino
