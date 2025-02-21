@@ -230,3 +230,19 @@ Pruning: The technique used to remove branches that have little importance, help
 - Lifestyle Factors
 - Population Variability
 
+## Implications and Applications
+
+### Theoretical Implications
+- Advancing Understanding
+- Refining Alzheimer’s Diagnostic Criteria
+## Practical Applications
+- Early Diagnosis/Intervention
+
+## Real World Applications
+- Clinical Practice
+- Caregiver Support
+
+### Works Cited
+- [GoveInfo](www.govinfo.gov/app/details/GOVPUB-HE20-PURL-gpo20478.)
+- [CSU,](www.termedia.pl/Review-article-What-causes-alzheimer-s-disease-,20,21432,0,1.html. Accessed 30 July 2024.) 
+- Shibboleth Authentication Request, www-sciencedirect-com.lib-proxy.fullerton.edu/science/article/pii/S0014299920306464. Accessed 30 July 2024. 
