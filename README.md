@@ -123,3 +123,50 @@ Relationship: As cutoff increases specificity increases, and sensitivity decreas
 ![image](https://github.com/user-attachments/assets/6457f81d-83dc-4c0f-ac7b-38868d7e6898)
 
 
+### Logistic Regression Stepwise Selection Best Subset
+![image](https://github.com/user-attachments/assets/fb9f0290-71a9-41fd-ba4a-19e9c0aeddcf)
+
+Stepwise Selection Cutoff Ratio Analysis
+Same as forward selection
+Relationship: As cutoff ratio increases, specificity increases and sensitivity (target class) decreases. Therefore a lower cutoff ratio of 0.3 is the most ideal since if we want high accuracy in Alzheimer's diagnosis. However cutoff ratio 0.5 gives us the lowest overall ER. 
+![image](https://github.com/user-attachments/assets/315ea0d7-f0a0-4afd-a514-6f1944715ec4)
+
+### Logistic Regression Final Thoughts 
+- All have similar coefficients of determination
+- Through logistic regression analysis, approx 43% of the variance in the model is explained by the dependent variables 
+- Not a very good fit
+![image](https://github.com/user-attachments/assets/94fde718-f568-4326-a03a-6fd81e51af19)
+In conclusion variables like MMSE, Functional Assessment, Memory Complaints, Behavioral Problems, ADL, and Cholesterol LDL are most significant when trying to predict whether someone will be diagnosed with Alzheimer’s or not
+
+## kNN (k-Nearest Neighbors)
+### kNN - 0.5 cutoff
+
+- Scoring was done using k=9
+- High specificity but low sensitivity
+- Good with detecting negatives and false positives
+- Not so good at detecting positives
+- 52% error rate on positives
+![image](https://github.com/user-attachments/assets/2fad348e-9158-4bab-91c1-e7acd22a2d68)
+![image](https://github.com/user-attachments/assets/8a74e578-7f5c-43ca-a28f-c8a84649b277)
+![image](https://github.com/user-attachments/assets/9d6160fc-f2eb-4575-bb7f-54ef888c6115)
+
+### kNN - 0.4 cutoff
+
+- Scoring was done using k=9
+- Lower specificity but higher sensitivity
+- Reflected with a higher error rate on negatives and a lower error rate with positives
+![image](https://github.com/user-attachments/assets/b72eb92d-8a9c-4274-b672-f2a12a3bcc95)
+![image](https://github.com/user-attachments/assets/37fce56c-58c4-4177-a428-7bfa81f977bb)
+![image](https://github.com/user-attachments/assets/169a35f0-8a03-4cda-953c-1465811860ea)
+
+### kNN - 0.3 cutoff
+- Scoring done using k=7
+- Similar error rates for positives and negatives
+- Similar specificity and sensitivity to reflect that
+- More equal distribution of detecting negatives and positives
+![image](https://github.com/user-attachments/assets/91825d94-ee42-4a78-b7a3-aa2591cee469)
+![image](https://github.com/user-attachments/assets/d63f0840-5a69-4d4e-8d54-a2fc5aee691f)
+![image](https://github.com/user-attachments/assets/07e83a3d-076b-49fc-80f8-47f97e843953)
+
+
+
