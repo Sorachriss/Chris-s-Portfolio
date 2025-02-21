@@ -53,7 +53,7 @@
 - Identifying which variables are the most significant when diagnosing a patient with alzheimer's.
 
 DataSet:
-- [Alzheimer’s Disease Data from Kaggle](https://www.kaggle.com/datasets/ninadaithal/imagesoasis)
+- [Alzheimer’s Disease Data from Kaggle]([https://www.kaggle.com/datasets/ninadaithal/imagesoasis](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset))
 - 33 Variables and 2150 Records
 - Decision variable: Diagnosis
 - Classification
