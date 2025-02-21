@@ -6,7 +6,11 @@
 - Scraped over 1000 reviews was given through excel and python.
 - Competed in an Alteryx-hosted challenge with over 70 participants.
 - Predict the value of the dependent variable based on the values of the independent variables.
-- Use Regression analysis through python
+  
+  ## Code and Resources
+- Use Regression analysis through Python
+- Excel for Data cleaning for Alteryx workflow
+- Tableau for data visualization with dashboards 
  ![image](https://github.com/user-attachments/assets/c404e301-6865-4eae-a138-3c2e82c8596e)
   ![image](https://github.com/user-attachments/assets/0b54b751-55f8-4719-81b7-4fdc0f442bc5)
 
