@@ -168,5 +168,23 @@ In conclusion variables like MMSE, Functional Assessment, Memory Complaints, Beh
 ![image](https://github.com/user-attachments/assets/d63f0840-5a69-4d4e-8d54-a2fc5aee691f)
 ![image](https://github.com/user-attachments/assets/07e83a3d-076b-49fc-80f8-47f97e843953)
 
+### kNN - Conclusion
+- As cutoff decreased, the error rates stabilized
+- With a cutoff of 0.2, sensitivity began to go back down
+- A cutoff of 0.3 would be preferred
+- kNN isn’t the ideal model to use
 
+## CART Method
+Nodes: Each node in the tree represents a decision point based on a feature (input variable).
+Branches: Each branch represents the outcome of the decision and leads to the next decision node or a leaf node.
+Leaf Nodes: These are the final nodes that provide the output, either a class label (in classification) or a numerical value (in regression).
+Key Concepts
+Splitting: The process of dividing the data at each node based on certain criteria, like the Gini impurity or information gain for classification, and mean squared error for regression.
+Pruning: The technique used to remove branches that have little importance, helping to prevent overfitting and make the model more generalizable.
+![image](https://github.com/user-attachments/assets/b5769053-6bb1-4e5c-9388-bdf64b9849ec)
 
+### CART Minimum Error .5
+- Minimum Error Tree one with cutoff of .5
+- With no restrictions! 
+
+![image](https://github.com/user-attachments/assets/22999122-205d-4d6b-a775-8dee2b7b917c)
