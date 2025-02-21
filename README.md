@@ -23,10 +23,10 @@ Utilized Alteryx to develop workflows that provided data-driven insights into te
 Based On Linear Regression we did on python we discovery what amenties should hotels priotzie in order to ensure the highest review.
 ![image](https://github.com/user-attachments/assets/bd00ec4f-814a-4e24-afcb-46907919cbbf)
 While we were data cleaning we narrow down to Hotel name, # amenities, Average score, Spa, Casino, Free Interent, and top 3 Amenities.
-After Analysis we noticed with the top 5 hotles that were doing well was having around 5 amentites compare to the other amounts of amentites they had.
-![image](https://github.com/user-attachments/assets/c26e1c7c-df17-4603-9849-2f305d30788e)
+After Analysis we noticed with the top 5 hotels that were doing well was having around 5 amentites compare to the other amounts of amentites they had.
+![image](https://github.com/user-attachments/assets/29297c93-5330-4677-b857-7cd99f085a67)
 We also saw that hotels with higher reviews and scores had specfic amenties such as Casino, Free Internet, Spa. Others that had these and extras places were a plus such as Tennis Court and Pool.
-![image](https://github.com/user-attachments/assets/a3fb60ee-6007-4b00-99f9-6782ebda590c)
+
 ##  Hotels should prioritize these amenities (in order):
 - Free Internet
 - Casino
