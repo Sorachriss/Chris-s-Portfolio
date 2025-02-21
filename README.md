@@ -50,7 +50,7 @@ We also saw that hotels with higher reviews and scores had specfic amenties such
 
 
 ## Project 2 
- ### Alzheimer’s Diagnosis Predictive Modeling Overview 
+### Alzheimer’s Diagnosis Predictive Modeling Overview 
 - Led a team in utilizing Excel for data analysis and predictive modeling, applying Multiple Linear Regression (MLR) and Regression Trees to identify key factors for early Alzheimer’s diagnosis. 
 - Developed Regression Trees using XLMiner to visually highlight critical variables for early detection.
 - Identifying which variables are the most significant when diagnosing a patient with alzheimer's.
@@ -68,10 +68,6 @@ Check missing values pattern by heatmap and delete columns rows if needed. There
 ### Step 2:
 Check the distribution of continuous variables by histogram and boxplot. 
 Histograms and Boxplots didn’t show any notable outliers for any continuous variable
-
-
-
-
 ![image](https://github.com/user-attachments/assets/8e5597af-ccda-46c6-ad14-6a6fac3a7c09)
 
 
