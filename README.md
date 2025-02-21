@@ -197,10 +197,25 @@ Pruning: The technique used to remove branches that have little importance, help
 
 ![image](https://github.com/user-attachments/assets/1b81371d-aa1b-48a9-9f90-3b4b5e501032)
 
-### Strong Variables Connected to the Tree 
-## Cognitive and Functional Assessments
+## Strong Variables Connected to the Tree 
+### Cognitive and Functional Assessments
 - Memory Complaints
 - Behavior Problems 
 - MMSE
 - ADL
-- Compare to Lifestyle Factors, Medical History, Clinical Measurements and Etc. 
+- Compare to Lifestyle Factors, Medical History, Clinical Measurements and Etc.
+  
+## Results
+![image](https://github.com/user-attachments/assets/c921797f-7315-4ecf-8d0b-e1949591f6f9)
+
+
+##  Optimal Model
+### CART
+- By far the BEST model to use
+- Low error rates
+- High sensitivity and specificity
+### kNN and Logistic regression
+- High error rates
+- Middling sensitivity and specificity
+
+
