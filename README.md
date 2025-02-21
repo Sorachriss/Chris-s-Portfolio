@@ -1,7 +1,7 @@
 # Chris's Portfolio
 
 ## Project 1
-## Predictive Hotel Review Analysis Competitetion Overview 
+## Predictive Hotel Review Analysis Alteryx Data Competitetion Overview 
 - Collaborated in developing a predictive model using Excel and Python's scikit-learn to forecast Las Vegas hotel review scores for amenity optimization.
 - Developed Tableau visualizations to illustrate amenity trends among top- and bottom-rated hotels, reinforcing model insights.
 - Employed Excel and Python to scrape over 1,000 hotel reviews, ensuring a robust dataset for analysis.
