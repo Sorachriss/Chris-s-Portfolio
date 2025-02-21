@@ -19,6 +19,10 @@
 - Utilized Alteryx to develop workflows that provided data-driven insights into team performance, enabling role-based analysis to measure effectiveness and optimize operations.
   ![image](https://github.com/user-attachments/assets/894fdd5b-faed-426f-929f-f1555d451623)
 
+  - What we noticed with the top 5 hotles that were doing well was having around 5 amentites compare to the other amounts of amentites they had.
+  ![image](https://github.com/user-attachments/assets/908e4b2e-4633-43f9-9266-8c4fc9d70cad)
+
+
 ### Based On Linear Regression we did on python we discovery what amenties should hotels priotzie in order to ensure the highest review.
 ![image](https://github.com/user-attachments/assets/1ae06a82-3bc1-4144-97c7-75491c0e6442)
 
