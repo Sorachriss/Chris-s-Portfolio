@@ -8,6 +8,8 @@
 - Predict the value of the dependent variable based on the values of the independent variables.
 - Use Regression analysis through python
 - ![image](https://github.com/user-attachments/assets/c404e301-6865-4eae-a138-3c2e82c8596e)
+- ![image](https://github.com/user-attachments/assets/0b54b751-55f8-4719-81b7-4fdc0f442bc5)
+
 
 
 ### What was our Objective: How can hotels predict a Tripadvisor review, and what amenities should hotels prioritize in order to ensure the highest review?
@@ -15,7 +17,7 @@
 
 
 
-![Picture](assets/img/Grad.png)
+
 
 
 ### Alzheimer’s Diagnosis Predictive Modeling
