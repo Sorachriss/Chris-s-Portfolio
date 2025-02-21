@@ -55,7 +55,7 @@ We also saw that hotels with higher reviews and scores had specfic amenties such
 - Developed Regression Trees using XLMiner to visually highlight critical variables for early detection.
 - Identifying which variables are the most significant when diagnosing a patient with alzheimer's.
 
-DataSet:
+### DataSet:
 - [Alzheimer’s Disease Data from Kaggle](https://www.kaggle.com/datasets/rabieelkharoua/alzheimers-disease-dataset)
 - 33 Variables and 2150 Records
 - Decision variable: Diagnosis
