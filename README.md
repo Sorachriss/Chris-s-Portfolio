@@ -195,3 +195,12 @@ Pruning: The technique used to remove branches that have little importance, help
 ### CART Best Prune .5
 ![image](https://github.com/user-attachments/assets/405c98a0-1de4-468e-bd3a-1526f7da764a)
 
+![image](https://github.com/user-attachments/assets/1b81371d-aa1b-48a9-9f90-3b4b5e501032)
+
+### Strong Variables Connected to the Tree 
+## Cognitive and Functional Assessments
+- Memory Complaints
+- Behavior Problems 
+- MMSE
+- ADL
+- Compare to Lifestyle Factors, Medical History, Clinical Measurements and Etc. 
