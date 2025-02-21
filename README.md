@@ -29,7 +29,7 @@
 
 
 ### What was our Objective: How can hotels predict a Tripadvisor review, and what amenities should hotels prioritize in order to ensure the highest review?
-
+### Answer: Hotels with 5 amenties with a prioritize on free internet, Spa, and Casino were condsider to be given higher reviews on Tripadvisor. In order to predict higher and more reviews these are the specifics amenities that are needed such Hotels like Wynn, The Venetian, and Encore scoring the highest. 
 
 
 
