@@ -58,6 +58,18 @@ DataSet:
 - Decision variable: Diagnosis
 - Classification
 
+## Preprocessing Data
+### Step 1:
+Check missing values pattern by heatmap and delete columns rows if needed. There were no missing values in our data set. We did delete one column, Which was “DoctorInCharge,” since all values were listed as “Confidential.”
+
+### Step 2:
+Check the distribution of continuous variables by histogram and boxplot. 
+Histograms and Boxplots didn’t show any notable outliers for any continuous variable
+
+
+
+
+![image](https://github.com/user-attachments/assets/8e5597af-ccda-46c6-ad14-6a6fac3a7c09)
 
 
 
