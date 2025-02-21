@@ -1,5 +1,10 @@
 # Chris's Portfolio
 
+##  Techincal Skills: Python, SQL, Excel, SPSS, Tableau, HTML5, Visual Studio
+
+
+
+# Projects
 ## Project 1
 ## Predictive Hotel Review Analysis Alteryx Data Competitetion Overview 
 - Collaborated in developing a predictive model using Excel and Python's scikit-learn to forecast Las Vegas hotel review scores for amenity optimization.
