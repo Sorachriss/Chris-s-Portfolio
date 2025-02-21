@@ -98,6 +98,28 @@ Finding the best k and what variables we used by grouping data points based on s
 Explains how our outcome variables value can be predicted based on other values
 
 
+### Logistic Regression Analysis 
+ Forward Selection Best Subset
+![image](https://github.com/user-attachments/assets/a34e55fa-d47d-46e4-a86d-a98b6cce2b01)
+### Forward Selection Coefficient Analysis
+- The odds of being diagnosed with Alzheimer's disease for those who reported memory complaints is 13.54 times as the odds of being diagnosed with Alzheimer's disease for those who did not reported memory complaints (p value < 0.001).
+- The odds of being diagnosed with Alzheimer's disease for those who reported behavioral problems is 11.8 times as the odds of being diagnosed with Alzheimer’s disease for those who did not report behavioral problems
+![image](https://github.com/user-attachments/assets/6b40e8a4-848e-4ba6-9337-4db91339f57e)
 
+Forward Selection Cutoff Ratio Analysis
+![image](https://github.com/user-attachments/assets/089670ca-f314-4d02-b6f4-ec869640ce9e)
+Relationship: As cutoff ratio increases, specificity increases and sensitivity (target class) decreases. Therefore a lower cutoff ratio of 0.3 is the most ideal since if we want high accuracy in Alzheimer's diagnosis. However cutoff ratio 0.5 gives us the lowest overall ER. 
+
+### Backwards Elimination Best Subset
+![image](https://github.com/user-attachments/assets/92888fab-3c6d-4728-8515-cb130eb37019)
+
+### Backwards Elimination Coefficient Analysis
+- The odds of being diagnosed with Alzheimer's disease decreases by approx. 37% for every point increase in their functional assessment (score ranges 0-10, lower score indicates greater impairment).
+- Our outstanding variables have low p values < .05 which means there significant
+![image](https://github.com/user-attachments/assets/4011e355-6a28-47aa-8f0c-e7c962c37fc3)
+
+### Backwards Elimination Cutoff Ratio Analysis
+Relationship: As cutoff increases specificity increases, and sensitivity decreases. A low cutoff ratio of 0.3 is the most ideal if we want high accuracy in Alzheimer's diagnosis. However if we are looking at smallest overall ER then cutoff ratio of 0.5 is ideal option.
+![image](https://github.com/user-attachments/assets/6457f81d-83dc-4c0f-ac7b-38868d7e6898)
 
 
