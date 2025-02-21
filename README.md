@@ -12,8 +12,10 @@
 - Conducted regression analysis using Python to derive actionable insights.
 - Utilized Excel for data cleaning to support efficient Alteryx workflows.
 - Developed and maintained interactive Tableau dashboards for comprehensive data visualization.
- ![image](https://github.com/user-attachments/assets/c404e301-6865-4eae-a138-3c2e82c8596e)
-  ![image](https://github.com/user-attachments/assets/0b54b751-55f8-4719-81b7-4fdc0f442bc5)
+![image](https://github.com/user-attachments/assets/06eedf4d-1400-4664-95a7-adb6f8122fb1)
+- The Equation for Pyhton
+![image](https://github.com/user-attachments/assets/4705a82a-1737-4bf7-a496-79eaf305f119)
+![image](https://github.com/user-attachments/assets/0b54b751-55f8-4719-81b7-4fdc0f442bc5)
 
 ## Our Analysis 
 - Utilized Alteryx to develop workflows that provided data-driven insights into team performance, enabling role-based analysis to measure effectiveness and optimize operations.
