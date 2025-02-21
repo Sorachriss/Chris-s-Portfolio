@@ -71,7 +71,22 @@ Histograms and Boxplots didn’t show any notable outliers for any continuous va
 ![image](https://github.com/user-attachments/assets/8e5597af-ccda-46c6-ad14-6a6fac3a7c09)
 
 
+### Step 3 
+Check the frequency table for categorical variables.
+Frequencies were good for all categorical variables.
 
+### Step 4
+Create dummy variables for categorical variables.
+Since we did not combine any of our categories, we did not need to create dummy variables.
+![image](https://github.com/user-attachments/assets/2d80d5b0-9f61-4256-b20a-802e393ddfc3)
 
+We than go on excel to see if the table is very clean and there are no high correlations above 0.8 or below -0.8 So nothing to delete.
+![image](https://github.com/user-attachments/assets/1b63529b-37bd-47e3-9143-a7f05a180154)
+
+### Step 5
+Generate pairwise correlation table and do collinearity check.
+This table displays correlation between the variables and potential relations of interest.
+Worth noting that Mini-Mental State Examination (MMSE), Functional Assessment And Activities of Daily Living  (ADL) had a slightly high negative correlation.
+While Memory Complaints and Behavioral Problems had a slightly higher positive correlation
 
 
