@@ -192,3 +192,6 @@ Pruning: The technique used to remove branches that have little importance, help
 ![image](https://github.com/user-attachments/assets/f4a41998-cded-4ca6-b14a-1a14d5ad1a7e)
 
 
+### CART Best Prune .5
+![image](https://github.com/user-attachments/assets/405c98a0-1de4-468e-bd3a-1526f7da764a)
+
